@@ -73,7 +73,7 @@
     <div class="col-sm-4">
         <div class="form-group">
             <label data-toggle="tooltip" title="" data-original-title="3 digits code on back side of the card">CVV <i class="fa fa-question-circle"></i></label>
-            <input class="form-control" required="" type="text">
+            <input class="form-control"  type="text" id="cvc">
         </div> <!-- form-group.// -->
     </div>
 </div> <!-- row.// -->
